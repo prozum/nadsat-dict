@@ -1,2 +1,2 @@
 # nadsat-dict
-A nadsat dictionary in StarDict format
+Nadsat dictionary in StarDict format
